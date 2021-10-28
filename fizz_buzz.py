@@ -10,6 +10,5 @@ for number in range(1, 101):
         print("fizz")
     elif number % 5 == 0:
         print("buzz")
-
     else:
         print(number)
